@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola a tod@s! 👋
+
+Soy Álvaro Gascón, desarrollador de software.
 
 <!--
 **gascondev/gascondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
