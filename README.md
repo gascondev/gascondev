@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Álvaro Gascón</h1>
 <h3 align="center">I´m a Software Developer from Castellón (Spain)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gascondev&label=Profile%20views&color=0e75b6&style=flat" alt="gascondev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gascondev" alt="gascondev" /></a> </p>
 
 - 🌱 I’m currently learning **Swift, SwiftUI**
 
@@ -19,4 +17,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gascondev&show_icons=true&locale=en&layout=compact" alt="gascondev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gascondev&show_icons=true&locale=en" alt="gascondev" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gascondev&label=Profile%20views&color=0e75b6&style=flat" alt="gascondev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gascondev" alt="gascondev" /></a> </p>
 
