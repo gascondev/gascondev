@@ -1,5 +1,5 @@
 <h1 >Hola, soy Álvaro Gascón 👋🏻</h1>
-<h3>Soy Desarrollador de Software Jr. 👨🏻‍💻</h3>
+<h3>Soy Desarrollador de Software 👨🏻‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gascondev&label=Profile%20views&color=0e75b6&style=flat" alt="gascondev" /> </p>
 
