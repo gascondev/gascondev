@@ -4,7 +4,6 @@
 <h1 >Hola, soy Álvaro Gascón 👋🏻</h1>
 <h3>Soy Desarrollador de Software 👨🏻‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gascondev&label=Profile%20views&color=0e75b6&style=flat" alt="gascondev" /> </p>
 
 En 2021, pandemia de por medio, y después de unos cuantos años como asesor comercial, decidí darle un cambio radical a mi vida.
 
@@ -17,6 +16,7 @@ Así que entre videoconferencias, trabajo presencial, tutoriales, café (mucho c
 Ahora, como buen enamorado de Apple que soy, he decidido dar un paso más y especializarme en tecnologías como #Swift y #SwiftUI para el desarrollo de aplicaciones  iOS.
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gascondev&label=Profile%20views&color=0e75b6&style=flat" alt="gascondev" /> </p>
 
 
 <h3 align="left">Conectar conmigo:</h3>
