@@ -22,6 +22,8 @@ Ahora, como buen enamorado de Apple que soy, he decidido dar un paso más y espe
 <h3 align="left">Conectar conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/alvaro-gascon-martinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alvaro-gascon-martinez" height="30" width="40" /></a>
+<a src="https://github.com/gascondev/gascondev/assets/144269155/8ae2589c-f843-444b-b206-4cd6a90c44e4" 
+
 </p>
 
 
@@ -45,6 +47,3 @@ Ahora, como buen enamorado de Apple que soy, he decidido dar un paso más y espe
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gascondev&show_icons=true&locale=en" alt="gascondev" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gascondev" alt="gascondev" /></a> </p>
