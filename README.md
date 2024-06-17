@@ -1,8 +1,8 @@
 
-![Álvaro Gascón (3)](https://github.com/gascondev/gascondev/assets/144269155/3bd97cdd-46b0-4881-a711-bb0d77e8ec64)
+![Álvaro Gascón (5)](https://github.com/gascondev/gascondev/assets/144269155/09acec89-93bd-480d-ac1e-11b6c16a37a1)
 
 <h1 >Hola, soy Álvaro Gascón 👋🏻</h1>
-<h3>Soy Desarrollador de Software 👨🏻‍💻</h3>
+<h3>Soy Desarrollador iOS 👨🏻‍💻</h3>
 
 
 En 2021, pandemia de por medio, y después de unos cuantos años como asesor comercial, decidí darle un cambio radical a mi vida.
@@ -29,21 +29,14 @@ Ahora, como buen enamorado de Apple que soy, he decidido dar un paso más y espe
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="Xcode" alt="Xcode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
 </p>
 
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gascondev&show_icons=true&locale=en&layout=compact" alt="gascondev" />
-</p>
 
 
