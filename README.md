@@ -1,8 +1,7 @@
 
-![Álvaro Gascón (5)](https://github.com/gascondev/gascondev/assets/144269155/09acec89-93bd-480d-ac1e-11b6c16a37a1)
 
 <h1 >Hola, soy Álvaro Gascón 👋🏻</h1>
-<h3>Soy Desarrollador iOS 👨🏻‍💻</h3>
+<h3>Soy Desarrollador Web 👨🏻‍💻</h3>
 
 
 En 2021, pandemia de por medio, y después de unos cuantos años como asesor comercial, decidí darle un cambio radical a mi vida.
