@@ -4,15 +4,15 @@
 <h3>Soy Desarrollador Web 👨🏻‍💻</h3>
 
 
-En 2021, pandemia de por medio, y después de unos cuantos años como asesor comercial, decidí darle un cambio radical a mi vida.
+# En 2021, pandemia de por medio, y después de unos cuantos años como asesor comercial, decidí darle un cambio radical a mi vida.
 
-Me adentré de lleno en el apasionante mundo del desarrollo web y oye, resulta que le pillé el gusto.
+# Me adentré de lleno en el apasionante mundo del desarrollo web y oye, resulta que le pillé el gusto.
 
-Así que entre videoconferencias, trabajo presencial, tutoriales, café (mucho café...) y dos años de esfuerzo después, terminé el Ciclo de Técnico Superior en Desarrollo Web.
+# Así que entre videoconferencias, trabajo presencial, tutoriales, café (mucho café...) y dos años de esfuerzo después, terminé el Ciclo de Técnico Superior en Desarrollo Web.
 
-2024 ha sido el año del adiós a los libros y el hola a los problemas reales, bugs, commits, pruebas, despliegues...
+# 2024 ha sido el año del adiós a los libros y el hola a los problemas reales, bugs, commits, pruebas, despliegues...
 
-Ahora, como buen enamorado de Apple que soy, he decidido dar un paso más y especializarme en tecnologías como #Swift y #SwiftUI para el desarrollo de aplicaciones  iOS.
+# Ahora, como buen enamorado de Apple que soy, he decidido dar un paso más y especializarme en tecnologías como #Swift y #SwiftUI para el desarrollo de aplicaciones  iOS.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gascondev&label=Profile%20views&color=0e75b6&style=flat" alt="gascondev" /> </p>
