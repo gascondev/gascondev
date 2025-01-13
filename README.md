@@ -1,7 +1,7 @@
 
 
 <h1 >Hola, soy Álvaro Gascón 👋🏻</h1>
-<h3>Soy Desarrollador Web 👨🏻‍💻</h3>
+<h3>Soy Desarrollador de software 👨🏻‍💻</h3>
 
 
 En 2021, pandemia de por medio, y después de unos cuantos años como asesor comercial, decidí darle un cambio radical a mi vida y empezar mi formación como desarrollador web sin dejar de lado mi trabajo.
