@@ -4,16 +4,13 @@
 <h3>Soy Desarrollador de software 👨🏻‍💻</h3>
 
 
-En 2021, pandemia de por medio, y después de unos cuantos años como asesor comercial, decidí darle un cambio radical a mi vida y empezar mi formación como desarrollador web sin dejar de lado mi trabajo.
+Desde 2021, tras varios años de experiencia en el ámbito comercial, decidí redirigir mi carrera hacia el desarrollo tecnológico, especializándome en el desarrollo de software y, posteriormente, en inteligencia artificial y análisis de datos.
 
-Así que entre videoconferencias, trabajo presencial, tutoriales, café (mucho café...) y dos años de esfuerzo después, terminé mi formación como Técnico Superior en Desarrollo Web.
+Durante mi formación como Técnico Superior en Desarrollo Web, adquirí un sólido conocimiento en tecnologías y metodologías de desarrollo, reforzando competencias clave como la gestión de proyectos, la adaptabilidad y el aprendizaje continuo. Estas habilidades me han permitido abordar desafíos técnicos de manera estructurada y eficiente.
 
-Durante mi formación, no solo aprendí todo lo necesario para ser un buen desarrollador, sino que también reforcé algunas habilidades que me definen: la seriedad y el compromiso para cumplir mis objetivos, la responsabilidad de llevar adelante varios proyectos simultáneamente (trabajo y estudios) y la capacidad de seguir aprendiendo cada día, algo que considero indispensable en un sector tan dinámico como el de la tecnología.
+Actualmente, me especializo en inteligencia artificial y big data, explorando el potencial de los modelos de aprendizaje automático y el procesamiento de datos a gran escala. Mi enfoque se centra en la aplicación práctica de estas tecnologías para la optimización de procesos, la automatización inteligente y la extracción de valor a partir de datos.
 
-Esa última habilidad (la de seguir aprendiendo) y mis constantes ganas de mejorar, me han llevado a donde estoy ahora, cursando la Especialización en Inteligencia Artificial y Big Data.
-Esta formación me está proporcionando una nueva visión sobre el gran potencial que tiene la inteligencia artificial, sus utilidades, los datos y lo importante que es saber manejarlos.
-
-Con esto, pretendo seguir ampliando mis capacidades para enfrentarme a los retos actuales y los que se me presenten en el futuro.
+Mi objetivo es seguir evolucionando en este campo, combinando el conocimiento técnico con una visión estratégica para aportar soluciones innovadoras y escalables en entornos dinámicos y altamente tecnológicos.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gascondev&label=Profile%20views&color=0e75b6&style=flat" alt="gascondev" /> </p>
