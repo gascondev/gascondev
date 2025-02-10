@@ -17,10 +17,10 @@ Mi objetivo es seguir evolucionando en este campo, combinando el conocimiento t�
 </p>
 
 ## 🔗 Conectar conmigo:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](TU_LINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/alvaro-gascon)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:alvaro.gascon.m@gmail.com)
 
----
+
 
 ## 🛠 Tecnologías y herramientas
 
