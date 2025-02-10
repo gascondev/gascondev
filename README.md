@@ -1,6 +1,6 @@
 
 <h1>Hola, soy Álvaro Gascón 👋🏻</h1>
-<h3>Soy desarrollador de software especializado en inteligencia artificial y big data 👨🏻‍💻</h3>
+<h3>👨🏻‍💻 Soy desarrollador de software especializado en inteligencia artificial y big data. 🤖</h3>
 
 Desde 2021, tras varios años de experiencia en el ámbito comercial, decidí redirigir mi carrera hacia el desarrollo tecnológico, especializándome en el desarrollo de software y, posteriormente, en inteligencia artificial y análisis de datos.
 
