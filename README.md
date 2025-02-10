@@ -17,8 +17,8 @@ Mi objetivo es seguir evolucionando en este campo, combinando el conocimiento tÃ
 </p>
 
 ## ðŸ”— Conectar conmigo:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alvaro-gascon/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:alvaro.gascon.m@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-gascon/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaro.gascon.m@gmail.com)  
 
 
 
