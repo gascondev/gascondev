@@ -1,5 +1,5 @@
 <details>
-  <summary>🇬🇧 English</summary>
+  <summary>🇬🇧 English profile</summary>
 
   <h1>Hello, I'm Álvaro Gascón 👋🏻</h1>
   <h3>👨🏻‍💻 I'm a software developer specializing in artificial intelligence and big data. 🤖</h3>
